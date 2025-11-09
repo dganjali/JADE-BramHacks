@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/cmake_install.cmake"
+		"/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

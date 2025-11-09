@@ -1,5 +1,5 @@
 """
-JADE Robotic Arm - Interactive Control Interface
+Heimdall Robotic Arm - Interactive Control Interface
 Real-time keyboard control with webcam feed
 """
 
@@ -168,7 +168,7 @@ class GameInterface:
     def __init__(self, controller, webcam):
         pygame.init()
         self.screen = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
-        pygame.display.set_caption("JADE Robotic Arm Control")
+        pygame.display.set_caption("Heimdall Robotic Arm Control")
         self.clock = pygame.time.Clock()
         self.controller = controller
         self.webcam = webcam
@@ -391,7 +391,7 @@ class GameInterface:
 def main():
     """Main entry point"""
     print("=" * 60)
-    print("JADE Robotic Arm - Interactive Control Interface")
+    print("Heimdall Robotic Arm - Interactive Control Interface")
     print("=" * 60)
     
     # Initialize controller

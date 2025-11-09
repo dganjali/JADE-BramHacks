@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Serial communication test for JADE Robotic Arm
+Serial communication test for Heimdall Robotic Arm
 Tests the serial protocol without the full game interface
 """
 
@@ -15,7 +15,7 @@ def test_serial():
     """Test serial communication with Arduino"""
     
     print("=" * 60)
-    print("JADE Arm - Serial Communication Test")
+    print("Heimdall Arm - Serial Communication Test")
     print("=" * 60)
     
     # Connect to Arduino

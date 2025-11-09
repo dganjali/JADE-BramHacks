@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new
+CMAKE_SOURCE_DIR = /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build
+CMAKE_BINARY_DIR = /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build
 
 # Utility rule file for docking_dashboard_autogen.
 
@@ -70,9 +70,9 @@ CMakeFiles/docking_dashboard_autogen: docking_dashboard_autogen/timestamp
 
 docking_dashboard_autogen/timestamp: /opt/homebrew/share/qt/libexec/moc
 docking_dashboard_autogen/timestamp: CMakeFiles/docking_dashboard_autogen.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target docking_dashboard"
-	/opt/homebrew/bin/cmake -E cmake_autogen /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/CMakeFiles/docking_dashboard_autogen.dir/AutogenInfo.json ""
-	/opt/homebrew/bin/cmake -E touch /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/docking_dashboard_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target docking_dashboard"
+	/opt/homebrew/bin/cmake -E cmake_autogen /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/CMakeFiles/docking_dashboard_autogen.dir/AutogenInfo.json ""
+	/opt/homebrew/bin/cmake -E touch /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/docking_dashboard_autogen/timestamp
 
 CMakeFiles/docking_dashboard_autogen.dir/codegen:
 .PHONY : CMakeFiles/docking_dashboard_autogen.dir/codegen
@@ -91,6 +91,6 @@ CMakeFiles/docking_dashboard_autogen.dir/clean:
 .PHONY : CMakeFiles/docking_dashboard_autogen.dir/clean
 
 CMakeFiles/docking_dashboard_autogen.dir/depend:
-	cd /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/CMakeFiles/docking_dashboard_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/CMakeFiles/docking_dashboard_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/docking_dashboard_autogen.dir/depend
 

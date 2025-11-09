@@ -1,4 +1,4 @@
-# JADE Robotic Arm - Complete System Overview
+# Heimdall Robotic Arm - Complete System Overview
 
 ## System Architecture
 

@@ -1,5 +1,5 @@
 CMakeFiles/thruster_controller.dir/src/thruster_controller.cpp.o: \
-  /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/src/thruster_controller.cpp \
+  /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/src/thruster_controller.cpp \
   /opt/homebrew/include/gz/sim10/gz/sim/System.hh \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cstdint \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__config \

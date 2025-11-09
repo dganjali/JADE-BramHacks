@@ -2,7 +2,7 @@
 
 # Test script to run simulation and capture debug output
 
-cd /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new
+cd /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new
 
 echo "Starting Gazebo simulation with debug output..."
 echo "Initial conditions:"

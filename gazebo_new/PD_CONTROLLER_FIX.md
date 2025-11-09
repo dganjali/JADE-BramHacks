@@ -157,7 +157,7 @@ Run the simulation and verify:
 5. ✅ Debug output shows decreasing distance and approach velocity
 
 ```bash
-cd /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new
+cd /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new
 ./run_simulation.sh
 ```
 

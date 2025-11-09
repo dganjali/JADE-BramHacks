@@ -9,8 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "docking_dashboard_autogen/timestamp" "custom" "docking_dashboard_autogen/deps"
-  "/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/docking_dashboard_autogen/mocs_compilation.cpp" "CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.o.d"
-  "/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/src/docking_dashboard.cpp" "CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.o" "gcc" "CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.o.d"
+  "/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/docking_dashboard_autogen/mocs_compilation.cpp" "CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.o.d"
+  "/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/src/docking_dashboard.cpp" "CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.o" "gcc" "CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

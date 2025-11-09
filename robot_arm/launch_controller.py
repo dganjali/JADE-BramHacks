@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Quick launcher for JADE Arm Control Game
+Quick launcher for Heimdall Arm Control Game
 """
 
 import subprocess
@@ -29,7 +29,7 @@ def check_dependencies():
 
 def main():
     print("=" * 60)
-    print("  JADE Robotic Arm - Game Controller")
+    print("  Heimdall Robotic Arm - Game Controller")
     print("=" * 60)
     print()
     

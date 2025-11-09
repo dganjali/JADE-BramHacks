@@ -1,5 +1,5 @@
-/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/docking_dashboard_autogen/include/docking_dashboard.moc: /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/src/docking_dashboard.cpp \
-  /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/docking_dashboard_autogen/moc_predefs.h \
+/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/docking_dashboard_autogen/include/docking_dashboard.moc: /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/src/docking_dashboard.cpp \
+  /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/docking_dashboard_autogen/moc_predefs.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/Availability.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/AvailabilityInternal.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/AvailabilityInternalLegacy.h \

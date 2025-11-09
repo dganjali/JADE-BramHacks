@@ -175,7 +175,7 @@ Shows:
 ## Testing Instructions
 
 ```bash
-cd /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new
+cd /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new
 ./run_simulation.sh
 ```
 

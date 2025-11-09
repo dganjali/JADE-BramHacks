@@ -1,6 +1,6 @@
-# 🎮 JADE Robotic Arm - Game Controller Interface
+# 🎮 Heimdall Robotic Arm - Game Controller Interface
 
-Interactive game-like control interface for the JADE robotic arm with real-time webcam feed.
+Interactive game-like control interface for the Heimdall robotic arm with real-time webcam feed.
 
 ![Interface Preview](docs/interface_preview.png)
 
@@ -352,4 +352,4 @@ MIT License - See main project LICENSE file
 
 ## Credits
 
-Part of the JADE Autonomous Satellite Servicing System
+Part of the Heimdall Autonomous Satellite Servicing System

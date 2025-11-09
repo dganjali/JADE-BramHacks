@@ -1,5 +1,5 @@
 /*
-  JADE Robotic Arm Controller - Game Controller Compatible
+  Heimdall Robotic Arm Controller - Game Controller Compatible
   Supports both:
   1. Keyboard commands (Q/A W/S E/D R/F T/G)
   2. Serial commands (servo_id:angle; format)
@@ -28,7 +28,7 @@ void setup() {
     servos[i].write(servoAngles[i]);
   }
 
-  Serial.println("JADE Arm Controller Ready");
+  Serial.println("Heimdall Arm Controller Ready");
   Serial.println("Commands: servo_id:angle; (e.g., '0:90;')");
   Serial.println("Or keyboard: Q/A W/S E/D R/F T/G");
 }

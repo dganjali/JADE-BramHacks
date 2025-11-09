@@ -1,5 +1,5 @@
 CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.o: \
-  /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/src/docking_dashboard.cpp \
+  /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/src/docking_dashboard.cpp \
   /opt/homebrew/include/gz/gui10/gz/gui/Plugin.hh \
   /opt/homebrew/include/tinyxml2.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cctype \
@@ -1763,7 +1763,7 @@ CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.o: \
   /opt/homebrew/lib/QtGui.framework/Headers/qpalette.h \
   /opt/homebrew/lib/QtGui.framework/Headers/QFont \
   /opt/homebrew/lib/QtGui.framework/Headers/qfont.h \
-  /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/docking_dashboard_autogen/include/docking_dashboard.moc \
+  /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/docking_dashboard_autogen/include/docking_dashboard.moc \
   /opt/homebrew/include/QtCore/qtmochelpers.h \
   /opt/homebrew/include/QtCore/qtmocconstants.h \
   /opt/homebrew/include/QtCore/q23type_traits.h

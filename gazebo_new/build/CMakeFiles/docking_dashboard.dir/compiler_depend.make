@@ -843,12 +843,12 @@ docking_dashboard_autogen/timestamp: /Library/Developer/CommandLineTools/SDKs/Ma
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/limits.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/ptrcheck.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdarg.h \
-  /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/CMakeLists.txt \
+  /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/CMakeLists.txt \
   CMakeFiles/4.1.2/CMakeCCompiler.cmake \
   CMakeFiles/4.1.2/CMakeCXXCompiler.cmake \
   CMakeFiles/4.1.2/CMakeSystem.cmake \
   docking_dashboard_autogen/moc_predefs.h \
-  /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/src/docking_dashboard.cpp \
+  /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/src/docking_dashboard.cpp \
   /opt/homebrew/Cellar/abseil/20250814.1/include/absl/algorithm/algorithm.h \
   /opt/homebrew/Cellar/abseil/20250814.1/include/absl/algorithm/container.h \
   /opt/homebrew/Cellar/abseil/20250814.1/include/absl/base/attributes.h \
@@ -5863,7 +5863,7 @@ CMakeFiles/4.1.2/CMakeCCompiler.cmake:
 
 /opt/homebrew/Cellar/abseil/20250814.1/include/absl/algorithm/algorithm.h:
 
-/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/src/docking_dashboard.cpp:
+/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/src/docking_dashboard.cpp:
 
 docking_dashboard_autogen/moc_predefs.h:
 
@@ -7305,7 +7305,7 @@ CMakeFiles/4.1.2/CMakeSystem.cmake:
 
 /opt/homebrew/share/cmake/Modules/Compiler/Clang.cmake:
 
-/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/CMakeLists.txt:
+/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/CMakeLists.txt:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__fwd/sstream.h:
 

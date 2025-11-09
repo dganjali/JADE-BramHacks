@@ -1,17 +1,17 @@
 {
-	"BUILD_DIR" : "/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/docking_dashboard_autogen",
-	"CMAKE_BINARY_DIR" : "/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build",
-	"CMAKE_CURRENT_BINARY_DIR" : "/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new",
+	"BUILD_DIR" : "/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/docking_dashboard_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new",
 	"CMAKE_EXECUTABLE" : "/opt/homebrew/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/CMakeLists.txt",
-		"/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/CMakeFiles/4.1.2/CMakeSystem.cmake",
+		"/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/CMakeLists.txt",
+		"/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/CMakeFiles/4.1.2/CMakeSystem.cmake",
 		"/opt/homebrew/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake",
 		"/opt/homebrew/share/cmake/Modules/Platform/Darwin-Initialize.cmake",
-		"/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/CMakeFiles/4.1.2/CMakeCCompiler.cmake",
-		"/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/CMakeFiles/4.1.2/CMakeCXXCompiler.cmake",
+		"/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/CMakeFiles/4.1.2/CMakeCCompiler.cmake",
+		"/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/CMakeFiles/4.1.2/CMakeCXXCompiler.cmake",
 		"/opt/homebrew/share/cmake/Modules/CMakeSystemSpecificInformation.cmake",
 		"/opt/homebrew/share/cmake/Modules/CMakeGenericSystem.cmake",
 		"/opt/homebrew/share/cmake/Modules/CMakeInitializeConfigs.cmake",
@@ -2077,14 +2077,14 @@
 		"/opt/homebrew/lib/cmake/gz-gui/gz-gui-config-version.cmake",
 		"/opt/homebrew/lib/cmake/gz-gui/gz-gui-config.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new",
+	"CMAKE_SOURCE_DIR" : "/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/docking_dashboard_autogen/deps",
+	"DEP_FILE" : "/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/docking_dashboard_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "docking_dashboard_autogen/timestamp",
 	"HEADERS" : [],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/docking_dashboard_autogen/include",
-	"MOC_COMPILATION_FILE" : "/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/docking_dashboard_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/docking_dashboard_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/docking_dashboard_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"FMT_SHARED",
@@ -2175,21 +2175,21 @@
 		"-E",
 		"/opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/docking_dashboard_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/docking_dashboard_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 8,
-	"PARSE_CACHE_FILE" : "/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/CMakeFiles/docking_dashboard_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/CMakeFiles/docking_dashboard_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/moc",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 9,
-	"SETTINGS_FILE" : "/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/CMakeFiles/docking_dashboard_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/CMakeFiles/docking_dashboard_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/src/docking_dashboard.cpp",
+			"/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/src/docking_dashboard.cpp",
 			"Mu",
 			null
 		]

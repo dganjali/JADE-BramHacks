@@ -208,4 +208,4 @@ This project is provided as-is for educational and research purposes.
 
 ## Credits
 
-Created for the JADE SpaceApps Challenge project.
+Created for the Heimdall BramHacks Challenge project.

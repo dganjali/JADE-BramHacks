@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/src/advanced_orbital_controller.cpp" "CMakeFiles/advanced_orbital_controller.dir/src/advanced_orbital_controller.cpp.o" "gcc" "CMakeFiles/advanced_orbital_controller.dir/src/advanced_orbital_controller.cpp.o.d"
+  "/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/src/advanced_orbital_controller.cpp" "CMakeFiles/advanced_orbital_controller.dir/src/advanced_orbital_controller.cpp.o" "gcc" "CMakeFiles/advanced_orbital_controller.dir/src/advanced_orbital_controller.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

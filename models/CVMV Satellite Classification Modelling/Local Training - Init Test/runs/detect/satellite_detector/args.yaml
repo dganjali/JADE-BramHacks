@@ -1,7 +1,7 @@
 task: detect
 mode: train
 model: yolov8n.pt
-data: C:\Users\Raj Ghoman\OneDrive\Documents\GitHub\JADE-SpaceApps\models\CV Satellite
+data: C:\Users\Raj Ghoman\OneDrive\Documents\GitHub\Heimdall-BramHacks\models\CV Satellite
   Classification\Satellite Detection Modelling\YOLOv8 Satellite Data\data.yaml
 epochs: 50
 time: null
@@ -13,7 +13,7 @@ save_period: -1
 cache: false
 device: cpu
 workers: 8
-project: C:\Users\Raj Ghoman\OneDrive\Documents\GitHub\JADE-SpaceApps\models\CV Satellite
+project: C:\Users\Raj Ghoman\OneDrive\Documents\GitHub\Heimdall-BramHacks\models\CV Satellite
   Classification\Satellite Detection Modelling\runs\detect
 name: satellite_detector
 exist_ok: false
@@ -105,5 +105,5 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: botsort.yaml
-save_dir: C:\Users\Raj Ghoman\OneDrive\Documents\GitHub\JADE-SpaceApps\models\CV Satellite
+save_dir: C:\Users\Raj Ghoman\OneDrive\Documents\GitHub\Heimdall-BramHacks\models\CV Satellite
   Classification\Satellite Detection Modelling\runs\detect\satellite_detector

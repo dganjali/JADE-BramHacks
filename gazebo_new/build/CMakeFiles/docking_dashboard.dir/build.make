@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new
+CMAKE_SOURCE_DIR = /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build
+CMAKE_BINARY_DIR = /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/docking_dashboard.dir/depend.make
@@ -71,9 +71,9 @@ include CMakeFiles/docking_dashboard.dir/flags.make
 
 docking_dashboard_autogen/timestamp: /opt/homebrew/share/qt/libexec/moc
 docking_dashboard_autogen/timestamp: CMakeFiles/docking_dashboard.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target docking_dashboard"
-	/opt/homebrew/bin/cmake -E cmake_autogen /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/CMakeFiles/docking_dashboard_autogen.dir/AutogenInfo.json ""
-	/opt/homebrew/bin/cmake -E touch /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/docking_dashboard_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target docking_dashboard"
+	/opt/homebrew/bin/cmake -E cmake_autogen /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/CMakeFiles/docking_dashboard_autogen.dir/AutogenInfo.json ""
+	/opt/homebrew/bin/cmake -E touch /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/docking_dashboard_autogen/timestamp
 
 CMakeFiles/docking_dashboard.dir/codegen:
 .PHONY : CMakeFiles/docking_dashboard.dir/codegen
@@ -81,30 +81,30 @@ CMakeFiles/docking_dashboard.dir/codegen:
 CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.o: CMakeFiles/docking_dashboard.dir/flags.make
 CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.o: docking_dashboard_autogen/mocs_compilation.cpp
 CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.o: CMakeFiles/docking_dashboard.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.o -MF CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.o -c /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/docking_dashboard_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.o -MF CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.o -c /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/docking_dashboard_autogen/mocs_compilation.cpp
 
 CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/docking_dashboard_autogen/mocs_compilation.cpp > CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/docking_dashboard_autogen/mocs_compilation.cpp > CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.i
 
 CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/docking_dashboard_autogen/mocs_compilation.cpp -o CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/docking_dashboard_autogen/mocs_compilation.cpp -o CMakeFiles/docking_dashboard.dir/docking_dashboard_autogen/mocs_compilation.cpp.s
 
 CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.o: CMakeFiles/docking_dashboard.dir/flags.make
-CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.o: /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/src/docking_dashboard.cpp
+CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.o: /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/src/docking_dashboard.cpp
 CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.o: CMakeFiles/docking_dashboard.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.o -MF CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.o.d -o CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.o -c /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/src/docking_dashboard.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.o -MF CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.o.d -o CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.o -c /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/src/docking_dashboard.cpp
 
 CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/src/docking_dashboard.cpp > CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/src/docking_dashboard.cpp > CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.i
 
 CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/src/docking_dashboard.cpp -o CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/src/docking_dashboard.cpp -o CMakeFiles/docking_dashboard.dir/src/docking_dashboard.cpp.s
 
 # Object files for target docking_dashboard
 docking_dashboard_OBJECTS = \
@@ -222,7 +222,7 @@ libdocking_dashboard.dylib: /opt/homebrew/lib/QtCore.framework/Versions/A/QtCore
 libdocking_dashboard.dylib: /opt/homebrew/Cellar/tinyxml2/11.0.0/lib/libtinyxml2.dylib
 libdocking_dashboard.dylib: /opt/homebrew/Cellar/tinyxml2/11.0.0/lib/libtinyxml2.dylib
 libdocking_dashboard.dylib: CMakeFiles/docking_dashboard.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX shared library libdocking_dashboard.dylib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX shared library libdocking_dashboard.dylib"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/docking_dashboard.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -234,6 +234,6 @@ CMakeFiles/docking_dashboard.dir/clean:
 .PHONY : CMakeFiles/docking_dashboard.dir/clean
 
 CMakeFiles/docking_dashboard.dir/depend: docking_dashboard_autogen/timestamp
-	cd /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build /Users/dganjali/GitHub/JADE-SpaceApps/gazebo_new/build/CMakeFiles/docking_dashboard.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build /Users/dganjali/GitHub/Heimdall-BramHacks/gazebo_new/build/CMakeFiles/docking_dashboard.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/docking_dashboard.dir/depend
 
