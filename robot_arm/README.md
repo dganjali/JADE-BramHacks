@@ -16,9 +16,45 @@ Quick start
 1. Edit `robot_arm/config.py` to match your link lengths and serial port.
 2. Install Python deps: `pip install -r robot_arm/requirements.txt`.
 3. Upload `robot_arm/arduino/arm_controller.ino` to your Arduino (adjust pins in that file).
-4. Run the high-level demo (after configuring camera indices and serial port):
+4. Run the demo: `python3 robot_arm/main.py`
 
-   python3 robot_arm/main.py
+## Game Controller Interface 🎮
+
+For an interactive game-like control experience with live webcam feed:
+
+```bash
+# Install dependencies (includes pygame)
+pip install -r requirements.txt
+
+# Upload game-compatible Arduino firmware
+# Use: arduino/arm_controller_game.ino
+
+# Run the game controller
+python arm_control_game.py
+```
+
+**Features:**
+- 🎮 Real-time keyboard control (Q/A, W/S, E/D, R/F, T/G)
+- 📹 Live webcam feed for visual monitoring
+- 📊 Visual servo position indicators
+- ⚡ 60 FPS smooth interface
+- 🔄 Quick reset to neutral position (SPACE key)
+
+See [GAME_CONTROLLER.md](GAME_CONTROLLER.md) for detailed documentation.
+
+## Testing Serial Communication
+
+Before running the full interface, test your serial connection:
+
+```bash
+python test_serial.py
+```
+
+This will:
+- Verify Arduino connection
+- Test each servo individually
+- Run a sweep pattern
+- Confirm bidirectional communication
 
 Notes
 - The vision code contains simple color/contour-based detection as a starting point.

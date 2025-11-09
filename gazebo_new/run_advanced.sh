@@ -2,7 +2,7 @@
 
 # run_advanced.sh - Launch advanced orbital controller with sensor models and thruster allocation
 
-echo "🚀 Starting Advanced Orbital Docking Simulation"
+echo "🚀 Starting Adv`anced Orbital Docking Simulation"
 echo "================================================"
 echo "Features:"
 echo "  ✓ Sensor Models (rangefinder, IMU, camera noise)"
